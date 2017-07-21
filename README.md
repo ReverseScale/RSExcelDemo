@@ -32,6 +32,7 @@
 ```Objective-C
 @interface SimpleViewController ()<RSeportViewDatasource>
 @property (nonatomic, strong)RSReportView *reportView;
+@end
 ```
 ### 第三步 实现和布局
 ```Objective-C
