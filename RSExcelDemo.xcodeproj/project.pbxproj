@@ -143,20 +143,7 @@
 				3443854A1F21D33C00CEA00E /* AppDelegate.m */,
 				3443854C1F21D33C00CEA00E /* ViewController.h */,
 				3443854D1F21D33C00CEA00E /* ViewController.m */,
-				344385791F21D4D700CEA00E /* SimpleViewController.h */,
-				3443857A1F21D4D700CEA00E /* SimpleViewController.m */,
-				3443857C1F21D4EF00CEA00E /* StyleViewController.h */,
-				3443857D1F21D4EF00CEA00E /* StyleViewController.m */,
-				3443859F1F21DF1C00CEA00E /* RSStyle+DemoStyle.h */,
-				344385A01F21DF1C00CEA00E /* RSStyle+DemoStyle.m */,
-				3443857F1F21D4FE00CEA00E /* ComplexViewController.h */,
-				344385801F21D4FE00CEA00E /* ComplexViewController.m */,
-				344385821F21D51200CEA00E /* SectionViewController.h */,
-				344385831F21D51200CEA00E /* SectionViewController.m */,
-				344385851F21D51D00CEA00E /* ActionViewController.h */,
-				344385861F21D51D00CEA00E /* ActionViewController.m */,
-				344385881F21D52D00CEA00E /* AutoHightViewController.h */,
-				344385891F21D52D00CEA00E /* AutoHightViewController.m */,
+				348D881B201964FE00EEF05F /* ExcelDemo */,
 				3443854F1F21D33C00CEA00E /* Main.storyboard */,
 				344385521F21D33C00CEA00E /* Assets.xcassets */,
 				344385541F21D33C00CEA00E /* LaunchScreen.storyboard */,
@@ -208,6 +195,27 @@
 				3443859D1F21D7FE00CEA00E /* NSIndexPath+RSReport.m */,
 			);
 			path = RSExcel;
+			sourceTree = "<group>";
+		};
+		348D881B201964FE00EEF05F /* ExcelDemo */ = {
+			isa = PBXGroup;
+			children = (
+				344385791F21D4D700CEA00E /* SimpleViewController.h */,
+				3443857A1F21D4D700CEA00E /* SimpleViewController.m */,
+				3443857C1F21D4EF00CEA00E /* StyleViewController.h */,
+				3443857D1F21D4EF00CEA00E /* StyleViewController.m */,
+				3443859F1F21DF1C00CEA00E /* RSStyle+DemoStyle.h */,
+				344385A01F21DF1C00CEA00E /* RSStyle+DemoStyle.m */,
+				3443857F1F21D4FE00CEA00E /* ComplexViewController.h */,
+				344385801F21D4FE00CEA00E /* ComplexViewController.m */,
+				344385821F21D51200CEA00E /* SectionViewController.h */,
+				344385831F21D51200CEA00E /* SectionViewController.m */,
+				344385851F21D51D00CEA00E /* ActionViewController.h */,
+				344385861F21D51D00CEA00E /* ActionViewController.m */,
+				344385881F21D52D00CEA00E /* AutoHightViewController.h */,
+				344385891F21D52D00CEA00E /* AutoHightViewController.m */,
+			);
+			path = ExcelDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -594,6 +602,7 @@
 				344385721F21D33C00CEA00E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		344385731F21D33C00CEA00E /* Build configuration list for PBXNativeTarget "RSExcelDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -602,6 +611,7 @@
 				344385751F21D33C00CEA00E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		344385761F21D33C00CEA00E /* Build configuration list for PBXNativeTarget "RSExcelDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -610,6 +620,7 @@
 				344385781F21D33C00CEA00E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
