@@ -4,6 +4,8 @@
 ) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 表格工具视图封装，多种样式，使用简单。
+推荐：RmondJone/ExcelView（https://github.com/RmondJone/ExcelView）
+支持XIB布局，支持代码布局，支持锁双向表头。
 
 | 名称 |1.列表页 |2.简单页 |3.风格页 | 4.复合页 | 5.单元页 | 6.响应页 | 7.自适应页 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
