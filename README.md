@@ -10,7 +10,7 @@
 
 | 名称 |1.列表页 |2.简单页 |3.风格页 | 4.复合页 | 5.单元页 | 6.响应页 | 7.自适应页 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-21/50968283.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-21/67391545.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-21/36860931.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-21/56984525.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-21/16416833.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-21/53621226.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-21/3844082.jpg) |
+| 截图 | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/63840828.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/30785566.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/27529267.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/21803739.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/90689279.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/1104840.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/22559157.jpg)|
 | 描述 | 通过 storyboard 搭建基本框架 | 简单展示 | 风格展示 | 复合表头 | 多元化单元格 | 响应事件 | 自适应高度 |
 
 
